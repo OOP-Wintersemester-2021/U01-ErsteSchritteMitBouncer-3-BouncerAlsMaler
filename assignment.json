@@ -1,6 +1,6 @@
 {
-    "title": "Erste Schritte mit Bouncer",
-    "abstract": "Drei erste kleine Aufgaben, in denen Sie Bouncer durch seine Welt steuern.",
+    "title": "U01-3 Bouncer als Maler",
+    "abstract": "Die dritte kleine Aufgabe, in der Sie Bouncer durch seine Welt steuern und dabei ein Problem lösen.",
     "hasStarterCode": true,
     "hasSolutionCode": true,
     "solutionComment": "Lösungsvorschlag zur Aufgabenstellung",
@@ -8,5 +8,5 @@
     "advancedSolutionComment": "",
     "hasSimpleSolutionCode": false,
     "hasAdvancedSolutionCode": false,
-    "solutionAvailableOn": "2021-09-01"
+    "solutionAvailableOn": "2021-10-26"
 }
