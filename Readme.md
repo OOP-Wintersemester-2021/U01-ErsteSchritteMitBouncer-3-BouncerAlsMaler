@@ -1,4 +1,6 @@
-# U01-3 | Bouncer als Maler  
+# U03 | Bouncer als Maler  
+
+Lesen Sie die Aufgabenstellung gründlich durch und Vesuchen Sie, die beschriebenenen Probleme zuerst selbständig zu lösen. Grundlegende Informationen zum Umgang mit der Entwicklungsumgebung IntelliJ und zu den wichtigsten Bouncer-Befehlen finden Sie im GRIPS-Kurs. Bei Fragen stehen wir Ihnen per E-Mail oder im Discord zur Verfügung.
 
 ## Ausgangslage 
 Bouncers Aufgabe in diesem Programm ist es, einen Raum komplett in rot zu streichen. Dazu muss er den Raum betreten und dort alle Felder rot anmalen. Der Raum ist durch gesperrte Felder von der restlichen Karte abgetrennt. Bouncer startet zwei Felder vor der *Tür*.  
